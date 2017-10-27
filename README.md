@@ -1,4 +1,4 @@
 # dailyTask
 
 ## TO DO
-- add sorting algorithm
+- add sorting algorithms
