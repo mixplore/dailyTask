@@ -1,0 +1,7 @@
+.block{
+	height: 10px;
+	margin-top: 5px;
+	background: #1D2B64; 
+	background: -webkit-linear-gradient(to right, #F8CDDA, #1D2B64); 
+	background: linear-gradient(to right, #F8CDDA, #1D2B64); 
+}
